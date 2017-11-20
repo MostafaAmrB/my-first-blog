@@ -25,7 +25,7 @@ SECRET_KEY = '1$!tbc^tfer1nop1flk66*#@q+zj=jo*e(c(zs^c(i$brdeu=s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Lenovo>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'startwebway.pythonanywhere.com']
 
 
 # Application definition
